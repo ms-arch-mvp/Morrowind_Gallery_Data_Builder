@@ -1,8 +1,8 @@
 # Morrowind-Gallery-Data-Builder
 
 * Tool for generating JSONs for galleries. 
-* Works off a folder input, reading any .esp or .esm larger than 1mb
-* Uses tes3conv to generate JSON, then JSON is filtered
+* Works off a folder input.
+* Uses tes3conv to generate JSON, then JSON is filtered.
 
 ### Prerequistes
 
