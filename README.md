@@ -1,6 +1,6 @@
 <h1 align="center">Morrowind Gallery Data Builder</h1>
 <p align="center">
-  <a href="https://ms-arch.gitbook.io/morrowind-visualisation-project/morrowind-gallery-data/functions">Documentation</a>
+  <a href="https://ms-arch.gitbook.io/morrowind-visualisation-project/morrowind-gallery-data-builder/functions">Documentation</a>
 </p
   
 * Tool for generating JSONs for galleries. 
