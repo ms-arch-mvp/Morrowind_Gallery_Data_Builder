@@ -5,7 +5,7 @@
   
 * `build_gallery_data.bat` generates filtered JSONs for galleries.
 <br>Uses tes3conv to generate JSON, then JSON is filtered.
-* `build_gallery_images.bat` converts PNGs into WebP images suitable for galleries.
+* `build_gallery_images.bat` converts PNGs into WEBPs suitable for galleries.
 <br>Thumbnails folder: Low resolution images for gallery.
 <br>Renders folder: High resolution images for opening.
 * Works off folder inputs.
