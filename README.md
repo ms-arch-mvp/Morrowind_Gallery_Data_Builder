@@ -14,5 +14,5 @@
 
 * [tes3conv](https://github.com/Greatness7/tes3conv) in the same folder (for `build_gallery_data.bat`)
 * Python installation
-* [IrfanView](https://www.irfanview.com/) (for `webp_thumbnails.bat`)
+* [IrfanView](https://www.irfanview.com/) (for `build_gallery_images.bat`)
 * [IrfanView Plugins](https://www.irfanview.com/plugins.htm)
