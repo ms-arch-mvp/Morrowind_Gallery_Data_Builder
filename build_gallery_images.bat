@@ -36,7 +36,7 @@ set "C_DIM=%ESC%[90m"
 set "C_RESET=%ESC%[0m"
 
 echo %C_TITLE%========================================%C_RESET%
-echo %C_TITLE%  Morrowind PNG to WebP Thumbnails%C_RESET%
+echo %C_TITLE%  Morrowind PNG to WEBP Thumbnails%C_RESET%
 echo %C_TITLE%========================================%C_RESET%
 echo.
 
