@@ -1,4 +1,4 @@
-<h1 align="center">Morrowind Gallery Tools</h1>
+<h1 align="center">Morrowind Library Tools</h1>
 <p align="center">
   <a href="https://ms-arch.gitbook.io/morrowvis/morrowind-gallery-tools/functions">Documentation</a>
 </p>
