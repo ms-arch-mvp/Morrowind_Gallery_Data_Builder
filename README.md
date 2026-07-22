@@ -1,6 +1,6 @@
 <h1 align="center">Morrowind Library Tools</h1>
 <p align="center">
-  <a href="https://ms-arch.gitbook.io/morrowvis/morrowind-gallery-tools/functions">Documentation</a>
+  <a href="https://ms-arch.gitbook.io/morrowvis/morrowind-library-tools/functions">Documentation</a>
 </p>
   
 * `build_gallery_data.bat` generates filtered JSONs for galleries.
@@ -10,7 +10,7 @@
 <br>Renders folder: High resolution images for opening.
 * Works off folder inputs.
 
-### Prerequistes
+### Prerequisites
 
 * [tes3conv](https://github.com/Greatness7/tes3conv) in the same folder (for `build_gallery_data.bat`)
 * Python installation
